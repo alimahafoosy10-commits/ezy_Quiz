@@ -1,0 +1,9 @@
+{
+  "name": "ezyQuiz",
+  "description": "A professional academic online quiz and examination system for students, teachers, and administrators.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
